@@ -1,2 +1,2 @@
 # dagomz
-personal webpage: http://dagomz.github.io
+personal webpage: http://danfgomez.github.io
