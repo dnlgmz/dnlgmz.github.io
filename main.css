@@ -1,3 +1,10 @@
+.main {
+ /* Reference an image file
+  background: url('./images/background.png');
+  color: red;
+}
+ */
+  
 body {
   background-color: #a3d5d3;
 }
