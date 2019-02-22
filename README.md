@@ -1,2 +1,2 @@
-# danielgomz
-personal webpage: http://danielgomz.github.io
+# djgz
+personal webpage: http://djgz.github.io
