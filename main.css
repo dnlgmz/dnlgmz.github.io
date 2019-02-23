@@ -1,5 +1,5 @@
 .main {
- Reference an image file
+ // Reference an image file
   background: url('./images/background.png');
   color: 00838f;
 }
