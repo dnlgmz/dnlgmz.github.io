@@ -1,2 +1,2 @@
-# dngmz
-personal webpage: http://dngmz.github.io
+# Github Username @gomedj
+personal webpage: http://gomedj.github.io
