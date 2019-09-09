@@ -1,2 +1,2 @@
-# Github Username @DanielGomz
-personal webpage: http://DanielGomz.github.io
+# Github Username @DanJoseGomez
+personal webpage: http://DanJoseGomez.github.io
