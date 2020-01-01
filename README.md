@@ -1,2 +1,2 @@
-# @danielgomz
-Academic personal webpage: http://danielgomz.github.io
+# Github Username @danielgomz
+personal webpage: http://danielgomz.github.io
